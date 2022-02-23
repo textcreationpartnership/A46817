@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life &amp; death of S. Luke delivered in a sermon on S. Lukes day, before the University at Great S. Maries in Cambridge / by David Jenner ...</title>
+            <author>Jenner, David, d. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46817</idno>
+            <idno type="STC">Wing J660</idno>
+            <idno type="STC">ESTC R1625</idno>
+            <idno type="EEBO-CITATION">12013153</idno>
+            <idno type="OCLC">ocm 12013153</idno>
+            <idno type="VID">52481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 568:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life &amp; death of S. Luke delivered in a sermon on S. Lukes day, before the University at Great S. Maries in Cambridge / by David Jenner ...</title>
+                  <author>Jenner, David, d. 1691.</author>
+               </titleStmt>
+               <extent>[2], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Luke, --  Saint.</term>
+               <term>Bible. --  N.T. --  Timothy, 2nd, IV, 11 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52481:1"/>
+            <pb facs="tcp:52481:1" rendition="simple:additions"/>
+            <p>THE LIFE &amp; DEATH OF S. LUKE: Delivered in A SERMON ON S. <hi>L<g ref="char:V">Ʋ</g>KES</hi> DAY, BEFORE The Univerſity at Great S. <hi>Maries</hi> IN <hi>CAMBRIDGE.</hi>
+            </p>
+            <p>By <hi>David Jenner,</hi> B. D. and Fellow of <hi>Sidney-Suſsex</hi> Colledge.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. williams,</hi> in Croſs-keys Court in <hi>Little Britains.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:52481:2"/>
+            <pb n="1" facs="tcp:52481:2"/>
+            <head>THE LIFE &amp; DEATH OF S. LUKE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 TIM. 4.11.</hi>
+                  </bibl>
+                  <p>Only <hi>Luke</hi> is with me.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is the great praiſe and perfection of the <hi>Sun</hi> (who is the prime and glory of all the <hi>Ce<g ref="char:EOLhyphen"/>leſtial Bodies</hi>) that by his conſtant and indefatigable mo<g ref="char:EOLhyphen"/>tion, he does illuminate and re<g ref="char:EOLhyphen"/>fresh the ſeveral corners of the in<g ref="char:EOLhyphen"/>ferior
+<pb n="2" facs="tcp:52481:3"/>Earth, with his glorious Rays and Beams of <hi>Light;</hi> and that he never, like the fickle and inconſtant <hi>Moon,</hi> puts on divers Faces. It is Recorded by the <hi>Poets,</hi> for the perpetual honor and ever<g ref="char:EOLhyphen"/>laſting renown of <hi>Theſeus,</hi> That he unceſſantly attended <hi>Hercules</hi> in all his Travels. Nor may we forget that no misfortune nor diſaſter whatſoever, could unty the Gor<g ref="char:EOLhyphen"/>dian Knot of <hi>Amity,</hi> once knit be<g ref="char:EOLhyphen"/>tween <hi>Aeneas</hi> and his Faithful <hi>Achates.</hi> Not unlike, the <hi>Holy Ghoſt</hi> hath in honor to S. <hi>Luke,</hi> (whoſe <hi>acts</hi> and <hi>deeds</hi> this day is by the <hi>Church</hi> wiſely ſet apart to comme<g ref="char:EOLhyphen"/>morate) The <hi>Holy Ghoſt</hi> (I ſay) hath in an honorable remembrance of his name, erected this <hi>Sacred Monument,</hi> even the Text, in which his <hi>Chriſtian Valor,</hi> his <hi>
+                  <g ref="char:V">Ʋ</g>nparallel'd
+<pb n="3" facs="tcp:52481:3"/>Constancy,</hi> his <hi>Mutual Correſpondency</hi> with S. <hi>Paul,</hi> whoſe (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) con<g ref="char:EOLhyphen"/>tinual <hi>Aſſociate</hi> he was, are all in<g ref="char:EOLhyphen"/>graven in ſuch <hi>Characters,</hi> as that neither <hi>Time</hi> nor <hi>Envy</hi> will be ever able to obliterate; for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. Only</hi> Luke <hi>is with me.</hi>
+            </p>
+            <p>In the words we have <hi>Damon</hi> and <hi>Pythias,</hi> two <hi>Pythagorean Lovers. Luke</hi> and <hi>Paul</hi> both cemented toge<g ref="char:EOLhyphen"/>ther by <hi>the <g ref="char:V">Ʋ</g>nion of the Spirit,</hi> by <hi>the Bond of Peace;</hi> or rather (if you pleaſe) the words are an intire Pro<g ref="char:EOLhyphen"/>poſition, whereof S. <hi>Luke</hi> is <hi>The Subject,</hi> S. <hi>Paul</hi> (who is underſtood in the Pronoun <hi>Me</hi>) <hi>The Predicate, The Copula</hi> that unites both, is <hi>Con<g ref="char:EOLhyphen"/>ſtancy,</hi> included in the phraſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Only</hi> Luke <hi>is with me.</hi>
+            </p>
+            <p>We shall begin with the ſubject S. <hi>Luke,</hi> as being moſt proper for this days ſolemnity.</p>
+            <pb n="4" facs="tcp:52481:4"/>
+            <p>And here the things moſt mate<g ref="char:EOLhyphen"/>rial, and worthy our obſervation, are two.</p>
+            <list>
+               <item>1. His Life.</item>
+               <item>2. His Death.</item>
+            </list>
+            <p>As for his Life, we cannot but in the Map of his <hi>Hiſtory</hi> ſet down
+<list>
+                  <item>1. His Native Countrey.</item>
+                  <item>2. Give ſome account of his o<g ref="char:EOLhyphen"/>minous Name.</item>
+                  <item>3. Take notice of his honorable Education.</item>
+                  <item>4. Of his laudable Profeſsion.</item>
+                  <item>5. Of his happy Converſion from Heatheniſm unto Chriſtiani<g ref="char:EOLhyphen"/>ty, with the various occurrences in that his new Evangelical Life.</item>
+               </list>
+            </p>
+            <p>As to the firſt, <hi>Iſidorus</hi> confident<g ref="char:EOLhyphen"/>ly calculates the place of his <hi>Nati<g ref="char:EOLhyphen"/>vity</hi> to be <hi>Syria</hi> in <hi>Aſia.</hi> when he writes that <hi>(Lucas Evangeliſta, Natione fuit Syrus)</hi> Luke <hi>the Evangeliſt was a</hi> Sy<g ref="char:EOLhyphen"/>rian,
+<pb n="5" facs="tcp:52481:4"/>
+               <hi>&amp;c.</hi> But he is altogether ſilent in what City or Town this <hi>our Evan<g ref="char:EOLhyphen"/>geliſt</hi> did firſt breathe; whereas <hi>Dorotheus</hi> (quoted by <hi>Theophylact</hi>) re<g ref="char:EOLhyphen"/>ports him to be born at <hi>Antioch,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi>) and to this Opinion <hi>Theophylact</hi> himſelf is pleaſed to ſubſcribe in theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> And to the ſame does S. <hi>Jerome</hi> give his Judgment. Nor does <hi>Irenaeus</hi> deny it, when ſpeaking of S. <hi>Luke,</hi> he thus expreſſeth himſelf —<hi>Ex</hi> Antiochiâ <hi>oriundus fuit medicus, &amp;c.</hi> By all which we may ſafely conclude, that Saint <hi>Luke</hi> was born at <hi>Antioch,</hi> a City very eminently famous for many things, but eſpecially for three: As</p>
+            <p n="1">1. <hi>Famous</hi> for their Loyalty, con<g ref="char:EOLhyphen"/>ſtantly paying their tribute of <hi>re<g ref="char:EOLhyphen"/>ſpect, reverence,</hi> and <hi>homage</hi> (juſtly due
+<pb n="6" facs="tcp:52481:5"/>by the <hi>Laws of God, Nature,</hi> and <hi>Men</hi>) unto their <hi>Supream Governors,</hi> always aſcribing unto their <hi>Chief Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> (whether <hi>Emperor</hi> or <hi>King,</hi>) all his titles of <hi>Honor,</hi> which <hi>Divine Providence</hi> had conferred upon him; as <hi>Johannes Antiochenus</hi> acquaints us out of his <hi>Hiſtory,</hi> concerning <hi>Au<g ref="char:EOLhyphen"/>guſtus Caeſar,</hi> who (ſays he) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> at <hi>Antioch</hi> was thus ſtiled, <hi>Caeſar, Octavian, Trophaeal, Auguſtus,</hi> the <hi>Mighty Emperor, &amp;c.</hi> A preſident ſufficient (one would think) for ever to ſilence and convince thoſe <hi>Sectariſts</hi> who dare rebelliouſly deny unto our <hi>Dread Soveraign,</hi> thoſe hono<g ref="char:EOLhyphen"/>rable Titles which the <hi>Virtues</hi> and <hi>Proweſs</hi> of <hi>His Noble Ancestors</hi> have merited in the <hi>Field,</hi> and the which <hi>God</hi> of <hi>his ſpecial Grace</hi> hath beſtow<g ref="char:EOLhyphen"/>ed upon <hi>Him,</hi> and affixed as ſo many radiant <hi>Diamonds</hi> on <hi>His Royal Crown.</hi>
+            </p>
+            <pb n="7" facs="tcp:52481:5"/>
+            <p n="2">2. <hi>Famous,</hi> for that <hi>Chriſts Corona<g ref="char:EOLhyphen"/>tion Day</hi> on Earth, was firſt of all ce<g ref="char:EOLhyphen"/>lebrated at <hi>Antioch, Acts</hi> 11.26. the <hi>Diſciples</hi> were firſt called <hi>Chriſtians</hi> at <hi>Antioch;</hi> whereas before <hi>Chriſts</hi> Pro<g ref="char:EOLhyphen"/>ſelytes were commonly known by the appellation of <hi>Nazareans</hi> and <hi>Galileans</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> as <hi>Suidas,</hi> and others, <hi>&amp;c.</hi>) But afterwards, when the <hi>Goſpel of Chriſt</hi> began to ſpred very much, and daily thouſands were added to the <hi>Church,</hi> then, that <hi>Believers</hi> might the better be diſcriminated from <hi>Jews</hi> and <hi>Infidels,</hi> and that the <hi>World</hi> might plainly know, who, and what they were; they did at <hi>Antioch</hi> very ſo<g ref="char:EOLhyphen"/>lemnly, and in a kind of State, pub<g ref="char:EOLhyphen"/>lickly aſſume unto themſelves the glorious name of <hi>Chriſtians;</hi> for ſo the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Acts</hi> 11.26 (which
+<pb n="8" facs="tcp:52481:6"/>we tranſlate <hi>Called</hi>) is uſually taken in a State ſenſe, even as <hi>Kings</hi> at their Coronations do uſe (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) in State to be called and proclaim<g ref="char:EOLhyphen"/>ed <hi>Kings</hi> by their <hi>Champions</hi> and <hi>Heralds at Arms,</hi> with all their Ti<g ref="char:EOLhyphen"/>tles. Not unlike, at <hi>Antioch Christ the King of Heaven and Earth,</hi> was ſo<g ref="char:EOLhyphen"/>lemnly and magnificently pro<g ref="char:EOLhyphen"/>claimed, <hi>Supream Head and Governor of the Chriſtian Church,</hi> by <hi>Euodius,</hi> then Bishop of that place.</p>
+            <p n="3">3. <hi>Famous,</hi> in that <hi>Antioch</hi> was (as by <hi>History</hi> does appear) the Se<g ref="char:EOLhyphen"/>cond City (<hi>Jeruſalem</hi> being the Firſt) which received the happy Govern<g ref="char:EOLhyphen"/>ment of <hi>Epiſcopacy;</hi> the Conſtituti<g ref="char:EOLhyphen"/>on of which Government is ſo highly commended, and all due <hi>obedience</hi> thereunto ſo neceſſarily and ſtrongly urged by holy <hi>Ignatius,</hi>
+               <pb n="9" facs="tcp:52481:6"/>in almoſt all his <hi>Epiſtles,</hi> as that he does little leſs than Anathematiſe all thoſe, who by their <hi>Schiſms</hi> and <hi>Factions,</hi> plot to throw off the <hi>Yoke</hi> of that kind of <hi>Primitive Government,</hi> which certainly muſt be <hi>Jure Divino,</hi> if any thing, that hath an <hi>Apoſtolical</hi> and <hi>Primitive Sanction</hi> and <hi>Practice</hi> for its <hi>Foundation,</hi> can be ſo.</p>
+            <p>Hitherto we have travelled in our Diſcourſe to find out S. <hi>Lukes</hi> Native Countrey.</p>
+            <p n="2">2. In the next place we are to take cogniſance of his Name, the which, if well conſidered, would afford (had we time) ſufficient mat<g ref="char:EOLhyphen"/>ter for a large <hi>Oration,</hi> eſpecially if we call to remembrance that Names are</p>
+            <p>Either for <hi>Indexes</hi> to declare the Nature and Eſſential properties of things; as the three Names of <hi>God,
+<pb n="10" facs="tcp:52481:7"/>Jehovah,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Adonai,</hi> and <hi>Elohim;</hi> and ſo <hi>Adam</hi> taken from <hi>Adamah,</hi> his Mo<g ref="char:EOLhyphen"/>ther <hi>Earth.</hi>
+            </p>
+            <p>Or elſe <hi>other while</hi> Names are im<g ref="char:EOLhyphen"/>poſed to be as ſo many <hi>Remembrancers</hi> of eminent <hi>Mercies</hi> and <hi>Deliverances</hi> already obtained. Thus <hi>Moſes,</hi> ſo called from <hi>Maſhah,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> ſignifying his being drawn out of the Water by <hi>Pharaohs</hi> Daughter.</p>
+            <p>Or thirdly, Names do oft-times prognoſticate the future eminency and worth of the <hi>perſon,</hi> and that ſomething extraordinarily remark<g ref="char:EOLhyphen"/>able, is to be accomplished by him in the courſe of his life. Thus <hi>Jo<g ref="char:EOLhyphen"/>ſhuah</hi> and <hi>Jeſus,</hi> the one foretelling that he should be the <hi>Saviour</hi> of the People of <hi>Iſrael</hi> from their Enemies; the other, that he should be the <hi>Bleſſed Saviour</hi> and <hi>Redeemer</hi> of the World. In like manner <hi>Solomon</hi>
+               <pb n="11" facs="tcp:52481:7"/>(from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>a Prince of Peace.</hi> Both names, to wit, that of <hi>Jeſus,</hi> and this of <hi>Solomon</hi> portending, that by the firſt, ſinners should be redeemed and ſaved from the wrath of <hi>God,</hi> in and through the <hi>Death</hi> and <hi>Paſsion,</hi> the <hi>Mediation</hi> and <hi>Merit</hi> of the <hi>Holy Jeſu;</hi> and by the latter, that the <hi>Jews</hi> should enjoy <hi>Halcyon</hi> days of peace and tranquillity under the Reign of King <hi>Solomon.</hi>
+            </p>
+            <p>Now it is not very certain, for which of theſe <hi>three Reaſons</hi> this our <hi>Evangeliſt</hi> was named <hi>Luke,</hi> though we find one of the <hi>Fathers</hi> to ſit down ſatisfied with the laſt, he conclu<g ref="char:EOLhyphen"/>ding, That <hi>God</hi> by his wiſe provi<g ref="char:EOLhyphen"/>dence had ordered his name should be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thereby ſignifying that in proceſs of time S. <hi>Luke</hi> should be<g ref="char:EOLhyphen"/>come and <hi>Evangeliſt;</hi> and ſo with the <hi>Milk</hi> of the <hi>Goſpel,</hi> feed <hi>Chriſts</hi> tender
+<pb n="12" facs="tcp:52481:8"/>
+               <hi>Babes, that they might grow thereby;</hi> for thus the word <hi>Luke</hi> ſignifies (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Milk,</hi> if any credit may be given unto the Authority of <hi>Germanus,</hi> Archbishop of <hi>Conſtantinople,</hi> who giving a Reaſon why the <hi>Four E<g ref="char:EOLhyphen"/>vangeliſts</hi> were named <hi>Matthew, Mark, Luke,</hi> and <hi>John,</hi> he thus be<g ref="char:EOLhyphen"/>ſpeaks his Reader. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>In the third place follows his <hi>E<g ref="char:EOLhyphen"/>ducation,</hi> which was honorable and ingenuous, not at all inferior to S. <hi>Pauls,</hi> who (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) was brought up at the Feet of <hi>Gamaliel;</hi> and we read that S. <hi>Luke</hi> whileſt he was in <hi>Ludi Literario,</hi> the place of improvement amongſt his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Competitors, beſet with <hi>Examples,</hi> as with ſo many <hi>Objects</hi> of <hi>Emulati<g ref="char:EOLhyphen"/>on,</hi> he did no way ſlacken his pace, but ever remembring the Poets
+<pb n="13" facs="tcp:52481:8"/>execration againſt <hi>Drones, ſcil. Occupet extremum ſcabies, mihi turpe relinqui eſt,</hi> He ſo husbanded his time, as that like <hi>Saul,</hi> among the people he ſoon ſurmounted his Fellows, and in a short while commenced <hi>Maſter of the Arts and Sciences,</hi> and became <hi>Profeſſor</hi> of the <hi>Languages, Hebrew</hi> only ex<g ref="char:EOLhyphen"/>cepted; for in that Language he vvas either vvholly ignorant, or very much deficient, but ſuperla<g ref="char:EOLhyphen"/>tively excellent in the <hi>Greek.</hi> Lucas <hi>Evangeliſta Natione</hi> Syrus, <hi>Graeco elo<g ref="char:EOLhyphen"/>quio eruditus, quem plerique tradunt Proſe<g ref="char:EOLhyphen"/>lytum eſſe, &amp; Hebraeas literas ignorâſſe, &amp;c.</hi> ſaith <hi>Iſidorus.</hi> Further, as he vvas an exact <hi>Linguiſt,</hi> ſo he vvas alſo an acute <hi>Philoſopher,</hi> and might vvell be reckoned (vvere he novv ſurvi<g ref="char:EOLhyphen"/>ving) chief among the <hi>Virtuoſi.</hi> We knovv that ſometimes a Man of a
+<pb n="14" facs="tcp:52481:9"/>faithful tenacious memory, though of a very ordinary and shallow judgment, may arrive unto a great perfection in the <hi>Tongues,</hi> and yet be a meer <hi>Ignoramus</hi> in <hi>Philoſophy,</hi> which in truth, is the chiefeſt and moſt noble part of Learning; for it is <hi>Philoſophy</hi> that rectifies the <hi>Judg<g ref="char:EOLhyphen"/>ment,</hi> improves <hi>Reaſon,</hi> regulates the <hi>Affections,</hi> refines and ſublimates the <hi>Intellectuals</hi> of a <hi>Man,</hi> as <hi>Hierodes</hi> of old hath well obſerved. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> That S. <hi>Luke</hi> was ſo great a <hi>Philoſopher</hi> as the premiſes ſpeak him to be, we have two ſure Foundations to bot<g ref="char:EOLhyphen"/>tom our belief on: The firſt is the teſtimony of <hi>Theophylact,</hi> whoſe words are theſe. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> which we may English thus, That Divine <hi>Luke,</hi> the Phyſitian, was born at
+<pb n="15" facs="tcp:52481:9"/>
+               <hi>Antioch,</hi> and was eminent in Philo<g ref="char:EOLhyphen"/>ſophy; for who knows not that the <hi>Philoſophers</hi> at firſt were called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and Philoſophy it ſelf was (as here by <hi>Theophylact</hi>) named <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in which we ſee S. <hi>Luke</hi> had arrived unto a full maturity, for he was (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) ſtiled the <hi>Great Philoſopher?</hi> The other Argument to perſwade us in<g ref="char:EOLhyphen"/>to a belief of his great experience and knowledge in all kind of <hi>litera<g ref="char:EOLhyphen"/>ture,</hi> eſpecially that of Philoſophy, is taken from his practice of <hi>Me<g ref="char:EOLhyphen"/>dicks,</hi> unto the right management of which Art, is neceſſarily required the higheſt attainment in Philoſo<g ref="char:EOLhyphen"/>phy</p>
+            <p n="4">4. And this leads us unto the fourth conſideration, which was his laudable Profeſsion, to wit, <hi>Phyſick;</hi> an art ſo noble, ſo honor<g ref="char:EOLhyphen"/>able and ingenuous, as that your
+<pb n="16" facs="tcp:52481:10"/>preſent <hi>Orator</hi> being at a <hi>nonplus,</hi> pleads an inability to expreſs its juſt encomiums; and therefore of ne<g ref="char:EOLhyphen"/>ceſſity muſt paſs it by with an <hi>&amp; caetera.</hi>
+            </p>
+            <p>But yet that we might not <hi>petere principia,</hi> it is granted on all hands and backed with the <hi>ipſe dixit</hi> of the <hi>holy Scripture,</hi> that <hi>Luke</hi> was (pardon the expreſſion) one of the <hi>Colledge of Phyſitians,</hi> for <hi>Coloſ.</hi> 4.14. Luke <hi>the Phyſitian ſalutes you.</hi> So that what be<g ref="char:EOLhyphen"/>fore he had learned in the <hi>Theory,</hi> that he now makes good uſe of in the <hi>practice;</hi> and truly practice, is the end of moſt (if not of all) <hi>Knowledge.</hi> The theoretical part of <hi>Learning</hi> be<g ref="char:EOLhyphen"/>ing lodged only in the Intellect, ſerves meerly for the information of the <hi>Judgment;</hi> whereas the practi<g ref="char:EOLhyphen"/>cal hath an influence on the whole <hi>life,</hi> and appears in every individual
+<pb n="17" facs="tcp:52481:10"/>
+               <hi>action,</hi> and is <hi>ſui Communicativa,</hi> and ſo promotes and advances, not only the ſingle perſons own good; but alſo very generouſly the good of others. Therefore what the <hi>Philoſopher</hi> makes to be the end of <hi>Ethicks,</hi> S. <hi>Luke</hi> here makes the ſame of <hi>Phyſicks,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: And the <hi>O<g ref="char:EOLhyphen"/>rator, Scientia virtutis non facit virum bonum, ſed actio ſecundùm virtutem.</hi> The Reaſon is plain, becauſe <hi>Omnis laus virtutis in actione conſiſtit.</hi> It is not the <hi>knowledge,</hi> but the <hi>practice of Virtue,</hi> that ennobles a Man with the title of <hi>Virtuous;</hi> for as the <hi>Philoſopher</hi> notes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>None merits the Ap<g ref="char:EOLhyphen"/>pellation of Good, but he who does Good;</hi> and therefore S. <hi>Luke</hi> knowing as much, no ſooner hath he attained unto a maturity in the <hi>Theory,</hi> but (that he might lay forth his talent
+<pb n="18" facs="tcp:52481:11"/>to the beſt advantage) improves the ſame by his continual practice, eſpecially of <hi>Phyſick.</hi> And this might well be added further to compleat our panegyrick of him, That he was no ſowre, crabbed, cruel-hearted <hi>Phyſitian,</hi> who to make experiment, will ſometimes put a period to their <hi>Patients</hi> ſojourning here on Earth, and ſend them to Heaven ſooner than <hi>Nature</hi> intend<g ref="char:EOLhyphen"/>ed: But he was cloathed with <hi>meek<g ref="char:EOLhyphen"/>neſs, love, candor,</hi> and <hi>humanity;</hi> all which gave him ſuch footing and ground in the hearts and affections of his <hi>Patients,</hi> that at length he is ſtiled by way of eminency (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Luke <hi>the Beloved Phyſitian, Col.</hi> 4.14.</p>
+            <p n="5">5. In the laſt place, let us take notice of his <hi>Converſion</hi> unto <hi>Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> with the various <hi>Appendixes</hi> of
+<pb n="19" facs="tcp:52481:11"/>that his new <hi>Evangelical Life.</hi>
+            </p>
+            <p>
+               <hi>Happy Providence! Saul</hi> is Chriſtned <hi>Paul; Luke</hi> the Phyſitian, is by the <hi>Spirit of Adoption,</hi> become S. <hi>Luke</hi> the Evangeliſt: He that cured others, is now in mercy cured himſelf; and of an <hi>Heathen,</hi> made a <hi>Chriſtian:</hi> But it is under debate who was the happy inſtrument in <hi>Gods</hi> hand, of effecting ſo glorious a work.</p>
+            <p>Some (as <hi>Epiphanius</hi> writes) attri<g ref="char:EOLhyphen"/>bute his <hi>Converſion</hi> immediately unto our <hi>Saviour</hi> himſelf, and affirm, That <hi>Luke</hi> was one of the <hi>Seventy Diſciples</hi> ſent forth to Preach; but it is hum<g ref="char:EOLhyphen"/>bly conceived, <hi>Truth</hi> cannot conſiſt with this conjecture, in as much as it is evident, That either S. <hi>Luke</hi> did not exiſt in our <hi>Saviours</hi> time; or if he did, yet that he never had the happineſs to ſee him in the <hi>Fleſh,</hi> nor ever was he an eye-witneſs un<g ref="char:EOLhyphen"/>to
+<pb n="20" facs="tcp:52481:12"/>to any of his <hi>Miracles;</hi> the which certainly he would have been, had he been one of the <hi>Seventy.</hi> But what need we diſpute this matter any further, ſeeing himſelf hath decided it in the Negative, in his Prologue to <hi>Theophilus?</hi> S. Luk. 1.1.</p>
+            <p>Others aſcribe his <hi>Converſion</hi> unto the powerful <hi>Miniſtry</hi> of S. <hi>Peter,</hi> who whileſt Bishop of <hi>Antioch,</hi> had <hi>Luke</hi> for one (ſay they) of his <hi>Catechu<g ref="char:EOLhyphen"/>mens,</hi> which were ſome times adult, as well as young perſons, and in<g ref="char:EOLhyphen"/>ſtructed him in the Fundamentals of the <hi>Chriſtian Faith.</hi> Hence it is that S. <hi>Baſil, Orat.</hi> 25. calls <hi>Luke</hi> the <hi>Diſciple or Scholar of</hi> Peter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi>
+            </p>
+            <p>But the third opinion ſeems to be the trueſt, and it is that of <hi>Ter<g ref="char:EOLhyphen"/>tullian,</hi> in his Fourth Book againſt <hi>Marcion;</hi> which <hi>Heretick</hi> endeavor<g ref="char:EOLhyphen"/>ed
+<pb n="21" facs="tcp:52481:12"/>to invalidate the <hi>Goſpel</hi> of Saint <hi>Luke:</hi> There our <hi>Author</hi> maintains, That <hi>Luke</hi> was after our <hi>Saviour,</hi> and moſt of the <hi>Apoſtles, Certè tantò poste<g ref="char:EOLhyphen"/>rior, quantò posterioris Apostoli ſectator</hi> Pauli <hi>ſine dubio, &amp;c.</hi> Tertul. in Mar<g ref="char:EOLhyphen"/>cion. And in the following words he intitles <hi>Paul</hi> to be <hi>Illuminator Lucae, The Converter of</hi> Luke; for ſo <hi>Pam<g ref="char:EOLhyphen"/>melius</hi> interprets that phraſe, and ſe<g ref="char:EOLhyphen"/>conds it with this reaſon, <hi>Quòd fidei lumen</hi> Lucae <hi>inſinuerat, &amp;c.</hi> becauſe <hi>Paul</hi> inſtrumentally had conveyed the light of <hi>Faith,</hi> and ſound <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> into the dark and blind under<g ref="char:EOLhyphen"/>ſtanding of <hi>Luke,</hi> who before was alienated from the Life of God, by reaſon of that <hi>Cimmerian</hi> darkneſs, ignorance and ſpiritual blindneſs that was in him naturally; but now by the ſafe convoy of S. <hi>Pauls</hi> Do<g ref="char:EOLhyphen"/>ctrine, he is entred into the mar<g ref="char:EOLhyphen"/>vellous
+<pb n="22" facs="tcp:52481:13"/>Liberty of the Children of God. So then you may now be<g ref="char:EOLhyphen"/>hold S. <hi>Luke</hi> as a Tree tranſplanted by <hi>Gods</hi> own hand into a better Soyl; and therefore let us go and ſee what Fruit he brings forth. Is he a barren fruitleſs <hi>Fig-tree?</hi> Veri<g ref="char:EOLhyphen"/>ly, no ſuch matter; for, <hi>Plantae tran<g ref="char:EOLhyphen"/>ſlatio eſt plantae perfectio,</hi> according to the <hi>Herbaliſts</hi> Maxim. This our new <hi>Convert</hi> is as full of Chriſtian works as of words; do we but narrowly obſerve him, and we shall ever find him, <hi>Remis incumbentem,</hi> diligent in the practice of <hi>Religion:</hi> As he pro<g ref="char:EOLhyphen"/>feſſeth <hi>Chriſt,</hi> ſo he lives <hi>Chriſt.</hi> He is not like ſome late <hi>Enthuſiaſts,</hi> who talk much of <hi>Religion,</hi> and have their mouths full of <hi>Divine, Seraphick Diſ<g ref="char:EOLhyphen"/>courſes;</hi> but they are <hi>(vox &amp; praeterea nihil)</hi> only an empty ſound, little or nothing of <hi>Works of Charity,</hi> and <hi>true
+<pb n="23" facs="tcp:52481:13"/>Piety</hi> appearing in the whole cur<g ref="char:EOLhyphen"/>rent of their lives. Such as theſe are the Trees full of Bloſſoms with<g ref="char:EOLhyphen"/>out Fruit, that are reſerved to curſing. Theſe are <hi>they</hi> who pre<g ref="char:EOLhyphen"/>tend to a newer Light, than is re<g ref="char:EOLhyphen"/>vealed in the <hi>Goſpel;</hi> and to a new way of greater <hi>purity</hi> and <hi>ſanctity</hi> than ever yet was found out: But in their <hi>lives</hi> and <hi>actions,</hi> are as full of black ſpots as others. Theſe are <hi>they,</hi> who, as ſo many <hi>Drones,</hi> in the <hi>Hive</hi> of <hi>Gods Church,</hi> only buz and make a noiſe, but bring in no <hi>Honey,</hi> nor bring forth any <hi>Fruit meet for re<g ref="char:EOLhyphen"/>pentance;</hi> no ways beautifying and adorning the <hi>Goſpel,</hi> which they profeſs, with holy circumſpect lives and converſations. Such as <hi>theſe</hi> open the mouths of <hi>Turks</hi> and <hi>Pagans</hi> to blaſpheme, and ſcandalize <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> it ſelf.</p>
+            <pb n="24" facs="tcp:52481:14"/>
+            <p>But, <hi>God be praiſed,</hi> it is otherwiſe with our <hi>Evangeliſt S. Luke;</hi> for no ſooner does he know his duty, <hi>but does it,</hi> and adds double diligence <hi>to work out his ſalvation with fear and trembling.</hi> We no where read that he ever was idle; for whileſt an <hi>Heathen</hi> he ſpent the <hi>Golden Sands</hi> of his fleeting time in doing good to the <hi>Bodies of Men;</hi> and when a <hi>Chriſtian,</hi> he is not come to a <hi>quietus eſt;</hi> nor does he ſue for a <hi>Writ of Eaſe,</hi> but moving in an high<g ref="char:EOLhyphen"/>er ſphere, doubles his diligence, and ſpends his precious minutes in do<g ref="char:EOLhyphen"/>ing good, not only to the Bodies, but alſo to the Souls of Men: So that with the one hand, like the charitable and tender-hearted <hi>Sa<g ref="char:EOLhyphen"/>maritan,</hi> he pours Oyl into the wounds of the diſtreſſed <hi>Levites;</hi> and with the other, he applies the Balm of <hi>Gilead,</hi> and many rich <hi>Evan<g ref="char:EOLhyphen"/>gelical
+<pb n="25" facs="tcp:52481:14"/>Salvoes</hi> to the Plague-ſores of Mens hearts. He does not vainly boaſt of his Faith, as the <hi>Gnoſticks</hi> of old, ſaying, <hi>I have Faith,</hi> but demon<g ref="char:EOLhyphen"/>ſtrates the ſame by his good Works; for he well knows, that although good Works are not a ſufficient ground for <hi>Confidence,</hi> nor a ſure foun<g ref="char:EOLhyphen"/>dation for <hi>Faith;</hi> yet they are cer<g ref="char:EOLhyphen"/>tain evidences of it. As S. <hi>Jam.</hi> 2.18. <hi>I will ſhew thee my faith by my works.</hi> And S. <hi>Bernard, Bona opera ſunt ſpei quae<g ref="char:EOLhyphen"/>dam ſeminaria, charitatis incentiva, non fiduciae fundamenta, &amp;c.</hi> Comfort may be increaſed by good works, though not built upon them; they do manifeſt an intereſt in <hi>Chriſt,</hi> though not merit any. <hi>Clemens A<g ref="char:EOLhyphen"/>lexandrinus</hi> hath noted well that, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. By grace we are ſaved,</hi> but not without good works; and therefore S. <hi>Luke</hi> does wiſely
+<pb n="26" facs="tcp:52481:15"/>joyn Faith and Works together; for Works without Faith are of no value, and Faith without Works, is dead being alone, S. <hi>Jam.</hi> 2.20. He is well adviſed, that happineſs is not intailed upon the knowledge of our <hi>Maſters</hi> will, but on the do<g ref="char:EOLhyphen"/>ing of the ſame. <hi>If ye know theſe things, happy are ye, if ye do them,</hi> S. <hi>Joh.</hi> 13.17. Herein he directly treads in thoſe bleſſed ſteps, and walks in that narrow <hi>path of holineſs</hi> which his <hi>Sa<g ref="char:EOLhyphen"/>viour</hi> had chalked out for him. And as <hi>Chriſt,</hi> ſo he, was famous for <hi>works of Piety,</hi> and <hi>true Charity;</hi> nay, to raiſe our encomium of him a little high<g ref="char:EOLhyphen"/>er, This our <hi>Evangeliſt</hi> had by his holy exemplary <hi>life</hi> in his <hi>Chriſtian ſtation,</hi> acquired unto himſelf ſuch renown and honor, as that his fame ecchoed throughout the <hi>Chriſtian World:</hi> Witneſs <hi>Ignatius</hi> in his Epiſtle
+<pb n="27" facs="tcp:52481:15"/>unto the <hi>Epheſians,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi>
+            </p>
+            <p>Further note we, that S. <hi>Luke</hi> ſpent his time after his <hi>Converſion</hi> chiefly in</p>
+            <list>
+               <item>1. The Miniſtry.</item>
+               <item>2. Or in Writing.</item>
+            </list>
+            <p n="1">1. Firſt in doing the work of an <hi>Evangeliſt,</hi> giving himſelf wholly to the fulfilling that his Miniſtery which he had received. Though by the way we cannot forget his mo<g ref="char:EOLhyphen"/>deſt unwillingneſs at the firſt, to take upon him ſo great, ſo weighty an office, as is the <hi>Miniſterial Function:</hi> Such was his <hi>Chriſtian humility,</hi> and <hi>ſelf-denial,</hi> as that he was hardly per<g ref="char:EOLhyphen"/>ſwaded to put his hand to <hi>Gods</hi> Plough. But yet let none think that this his averſneſs did ſpring from a deſire to live in idleneſs, and to make proviſion for the <hi>fleſh, to ful<g ref="char:EOLhyphen"/>fil
+<pb n="28" facs="tcp:52481:16"/>the luſts thereof;</hi> for he was not ig<g ref="char:EOLhyphen"/>norant, that the ſloathful ſervant was to be beaten with many ſtripes; but rather impute it unto an holy jealouſie of his own inſufficiency, which, without doubt, was the on<g ref="char:EOLhyphen"/>ly obſtacle and <hi>remora</hi> in his way to <hi>holy Orders.</hi> The ſame unwillingneſs we read in <hi>Iſidorus,</hi> to have been in S. <hi>Mark</hi> before his <hi>Ordination.</hi>
+            </p>
+            <p>Nor ſecondly, may we (with<g ref="char:EOLhyphen"/>out injury to his pious memory) paſs by his unceſſant pains-taking and diligence in the Miniſtery: For after once his clouds of fear were diſſipated, his doubts reſolved, and his ſpirit animated and ſteeled with courage, he enters the <hi>liſt,</hi> he fights the <hi>Lords</hi> Battles <hi>(more Ro<g ref="char:EOLhyphen"/>mano)</hi> undauntedly; and overlook<g ref="char:EOLhyphen"/>ing all worldly concerns, as of leſs moment, he makes the Preaching
+<pb n="29" facs="tcp:52481:16"/>of the <hi>Goſpel</hi> to be his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> his chiefeſt concernment.</p>
+            <p>And thirdly, moſt remarkable is his <hi>conſtancy.</hi> Neither the frowns of <hi>adverſity,</hi> nor the ſmiles of <hi>fortune,</hi> nor any Syrenical charms or allure<g ref="char:EOLhyphen"/>ments of <hi>proſperity,</hi> could ever draw or court him off from his duty. He is not like <hi>Lots</hi> Wife, that he should look back; nor to <hi>Demas,</hi> that he should, through an inordinate love of the World, forſake <hi>Paul,</hi> whoſe Son he was in the <hi>Faith.</hi> No, though all had forſaken him, yet not <hi>Luke,</hi> for, <hi>Only</hi> Luke <hi>is with me.</hi>
+            </p>
+            <p>In the Verſes antecedent to the <hi>Text,</hi> is laid down the <hi>apoſtaſie</hi> and <hi>back-ſliding</hi> of ſome who profeſſed <hi>Chriſtianity,</hi> and in particular, of <hi>De<g ref="char:EOLhyphen"/>mas,</hi> who had forſaken <hi>Paul,</hi> being <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, More a lover of Money, than of <hi>God.</hi> And as for
+<pb n="30" facs="tcp:52481:17"/>
+               <hi>Titus,</hi> the neceſsitous affairs of the <hi>Church</hi> had cauſed him to hoiſe Sail, and ſteer his Courſe unto <hi>Dalmatia:</hi> The like Summons had <hi>Creſcens</hi> into <hi>Galatia,</hi> or rather <hi>Gallia,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Epiphanius</hi> ſuppoſeth. So that only <hi>Luke</hi> is <hi>Pauls</hi> conſtant aſſociate and companion, forſaking all others, he adheres cloſe to <hi>Paul, Omnia poſtponens, Apoſtolum ſemper ſe<g ref="char:EOLhyphen"/>cutus eſt,</hi> ſaith S. <hi>Ambroſe.</hi> And the <hi>Tranſlator</hi> of Saint <hi>Jerome</hi> into <hi>Greek,</hi> affirms, That (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Luke</hi> attended <hi>Paul</hi> in all his voyages, until they both ſafely ar<g ref="char:EOLhyphen"/>rived at <hi>Rome,</hi> the then <hi>Metropolis</hi> of the World; and whileſt <hi>Paul</hi> ſo<g ref="char:EOLhyphen"/>journed at <hi>Rome</hi> (being detained there as a priſoner) it is very pro<g ref="char:EOLhyphen"/>bable (as may be gathered out of <hi>Epiphanius</hi>) that S. <hi>Luke</hi> left him there for a while, and travelled with <hi>Creſ<g ref="char:EOLhyphen"/>cens</hi>
+               <pb n="31" facs="tcp:52481:17"/>into <hi>France,</hi> where (our <hi>Author</hi> ſays) he did make his chief reſi<g ref="char:EOLhyphen"/>dence, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and there Preached the <hi>Goſpel:</hi> But <hi>Gregory Nazianzen,</hi> allotting unto every <hi>Apoſtle</hi> and <hi>Evangeliſt</hi> his ſeveral and proper <hi>Dioceſs,</hi> gives unto <hi>Luke Achaia;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But theſe things are diſputable, and therefore let us return back to <hi>Rome,</hi> where whileſt S. <hi>Luke</hi> was re<g ref="char:EOLhyphen"/>ſident, he ſpends part of his time in Writing; for being commanded either by <hi>Peter</hi> or <hi>Paul,</hi> or rather (as <hi>Chemnitius</hi> believes) by both, he compiles the Hiſtory of our <hi>Saviour,</hi> which is called <hi>The Goſpel of</hi> Luke; and another Book, intituled, <hi>The Acts of the Holy Apoſtles.</hi> Both he wrote in oppoſition unto thoſe two grand Hereticks and Forgers of <hi>Falſities, ſcil. Merinthus</hi> and <hi>Cerin<g ref="char:EOLhyphen"/>thus;</hi>
+               <pb n="32" facs="tcp:52481:18"/>which latter held <hi>Christs</hi> King<g ref="char:EOLhyphen"/>dom to be Earthly, and full of car<g ref="char:EOLhyphen"/>nal pleaſures, conſiſting in (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Meats, Drinks, and the like, after the mode of the <hi>Turkiſh</hi> and <hi>Mahometan</hi> Terreſtrial Kingdom; yea, he was ſo notori<g ref="char:EOLhyphen"/>ouſly wicked, as that S. <hi>John</hi> ſeeing him come into the Bath when he was bathing, haſtily ran out, fear<g ref="char:EOLhyphen"/>ing leſt he should tempt <hi>Providence,</hi> to cauſe the Roof to fall down up<g ref="char:EOLhyphen"/>on him, or the Earth to open and ſwallow him up, in caſe he should preſume to ſtay and be in the ſame place with ſuch an <hi>Heretick</hi> and <hi>Blaſ<g ref="char:EOLhyphen"/>phemer,</hi> as then <hi>Cerinthus</hi> was account<g ref="char:EOLhyphen"/>ed. Againſt theſe two (<hi>Cerinthus</hi> and <hi>Merinthus</hi>) it is ſaid, that Saint <hi>Luke</hi> wrote, that ſo the <hi>Goſpel,</hi> in its <hi>purity</hi> and <hi>verity</hi> might be tranſmitted down to poſterity; whereas, had
+<pb n="33" facs="tcp:52481:18"/>Saint, <hi>Luke</hi> lived in ſilence, the <hi>Chri<g ref="char:EOLhyphen"/>ſtian World</hi> would have been impo<g ref="char:EOLhyphen"/>ſed upon, and a falſe <hi>Goſpel</hi> ushered in by theſe <hi>Hereticks,</hi> inſtead of the true one, as appears by a ſtory S. <hi>Jerome</hi> quotes out of <hi>Tertullian,</hi> in his <hi>Catalogue of Eccleſiaſtick Writers,</hi> which is too long to be repeated here.</p>
+            <p>Moreover, it is worth our no<g ref="char:EOLhyphen"/>ting, that, if S. <hi>Luke</hi> had deſiſted from writing, then many excellent <hi>truths</hi> neceſſary to be known, would have been concealed, ſuch as <hi>Peters</hi> miraculous Releaſment out of Pri<g ref="char:EOLhyphen"/>ſon, by the aſsiſtance of an <hi>Angel:</hi> As alſo the Generation of <hi>John the Baptiſt;</hi> the Angels Advent unto the Virgin <hi>Mary; Elizabeths</hi> and Saint <hi>Maries</hi> Hymns; the Angels appearing to the Shepherds; the Doxology of the Heavenly Hoſt;
+<pb n="34" facs="tcp:52481:19"/>
+               <hi>Anna</hi> and <hi>Symeons</hi> Teſtimony of <hi>Chriſt;</hi> the Parable of <hi>Dives</hi> and <hi>Lazarus;</hi> of the Publican <hi>Zacheus;</hi> the Crooked Woman; of the Ten Lepers: As alſo of the Phariſee and Publican going up to pray; and of the unjuſt Judge, who feared neither <hi>God</hi> nor Man. <hi>Et alia multa ſunt quae inveniri poſ<g ref="char:EOLhyphen"/>ſunt à ſolo Lucâ dieta eſſe, &amp;c.</hi> Irenaeus <hi>adverſus Haereſes.</hi> Nor is this the only commendation of S. <hi>Luke,</hi> That he hath thus communicated more to <hi>Posterity,</hi> than the reſt of the <hi>Evange<g ref="char:EOLhyphen"/>lists;</hi> but alſo we may add one <hi>Flower</hi> more to the <hi>Garland</hi> of his praiſe, to wit, this, That he hath not only done all well, but alſo all ſo excellently, as that <hi>(Res geſtas non narrare, quàm ſuis coloribus depictas om<g ref="char:EOLhyphen"/>nium oculis praeponere videtur)</hi> he hath ſo exactly delineated, and (as it were) to the life painted out the
+<pb n="35" facs="tcp:52481:19"/>
+               <hi>Hiſtory of our Saviour,</hi> and the <hi>Acts of the Apoſtles;</hi> as that <hi>(Apud multos Picto<g ref="char:EOLhyphen"/>ris nomen obtinuit)</hi> by many he was called <hi>The Painter.</hi> From whence ſome did phancy, that the <hi>Images</hi> of our <hi>Bleſſed Saviour,</hi> and of the <hi>Virgin Mary,</hi> were by S. <hi>Luke</hi> firſt Limned and Painted out; the which two ſaid <hi>Images,</hi> ſome ſuperſtitious per<g ref="char:EOLhyphen"/>ſons pretend to have kept unto the days of <hi>Irenaeus.</hi>
+            </p>
+            <p>Hitherto we have beheld this <hi>Bright Planet</hi> running his race tho<g ref="char:EOLhyphen"/>rough the <hi>Chriſtian Orb,</hi> illumina<g ref="char:EOLhyphen"/>ting the dark corners of the <hi>Heathen World</hi> with thoſe <hi>Beams</hi> of <hi>Evangelical Light</hi> which he had borrowed from the great <hi>Luminary</hi> of <hi>Heaven</hi> and <hi>Earth,</hi> even from <hi>Jeſus Chriſt,</hi> the <hi>Fountain of Light.</hi> Hitherto we have ſeen him shine gloriouſly, even as the <hi>Sun</hi> in his full <hi>Meridian.</hi>
+            </p>
+            <pb n="36" facs="tcp:52481:20"/>
+            <p>But now to show the mutability of all created <hi>Beings,</hi> this shining <hi>Planet</hi> is at length totally eclipſed by the interpoſition of the Opace, Dark Body of Death. And no won<g ref="char:EOLhyphen"/>der; for when a Man hath labored hard all day, and finished his work, it is but reaſonable that at night he should go to reſt.</p>
+            <p>And this leads us to ſpeak a word of his Death, which was
+<list>
+                  <item>1. Timely.</item>
+                  <item>2. Natural.</item>
+               </list>
+            </p>
+            <p n="1">1. Timely, for when the <hi>Sun</hi> had run his Annual courſe, Four<g ref="char:EOLhyphen"/>ſcore and four times over his hoary<g ref="char:EOLhyphen"/>head (as S. <hi>Jerome</hi> reports) he then, and not before, is mowed down by the impartial Sythe of Death, and as a Sheaf of Corn fully ripened, richly laden, he is carried by the <hi>Harveſt-Men</hi> (the <hi>Good Angels</hi>) into <hi>Chriſts Barn.</hi>
+            </p>
+            <pb n="37" facs="tcp:52481:20"/>
+            <p n="2">2. Secondly, As his Death was timely in good old age, ſo it was kindly and natural, not violent. Nothing but the multitude of years (a burden too heavy for <hi>ſpent</hi> and <hi>fainting Nature</hi>) bows down his aged head. He is not carried up to <hi>Heaven</hi> in the <hi>Fiery Chariot</hi> of <hi>Martyrdom,</hi> but rather the old cracked <hi>Veſſel</hi> of his <hi>Body,</hi> ſpringing a <hi>Leak,</hi> ſuffers <hi>Ship<g ref="char:EOLhyphen"/>wrack,</hi> and is loſt in the midſt of an <hi>Ocean of Humors</hi> incident unto <hi>Old Age,</hi> where as his ever <hi>Bleſſed Soul</hi> (the <hi>Paſſenger</hi> within) ſwims ſafe through the <hi>Waves</hi> and <hi>Billows</hi> of this trouble<g ref="char:EOLhyphen"/>ſome <hi>VVorld,</hi> unto the happy <hi>Land</hi> of <hi>Canaan,</hi> and is lodged in <hi>Abrahams</hi> boſome for evermore.</p>
+            <p>And what now remains, but that we attend the Corps of this decea<g ref="char:EOLhyphen"/>ſed <hi>Saint</hi> unto his Grave, which is in <hi>Epheſus;</hi> for there he was buried.
+<pb n="38" facs="tcp:52481:21"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Theophylact</hi> informs us. But S. <hi>Jerome</hi> makes <hi>A<g ref="char:EOLhyphen"/>chaia,</hi> and <hi>Iſidorus Bythinia,</hi> to be the Stage on which <hi>Death</hi> acted this Tragedy, and cut aſunder the <hi>Thred</hi> of his <hi>Life.</hi> Whether this or that opinion be trueſt, we will no longer diſpute, only in this we are aſſured that they all agree, to wit, That S. <hi>Luke</hi> was twice Interred, and had two honorable Funerals: The firſt was immediately after his <hi>Death;</hi> the ſecond was in the time of <hi>Conſtantine,</hi> who in the twenti<g ref="char:EOLhyphen"/>eth year of His Reign, did out of honor to S. <hi>Luke,</hi> take up his <hi>Bones,</hi> together with the <hi>Bones</hi> of the A<g ref="char:EOLhyphen"/>poſtle S. <hi>Andrew</hi> and <hi>Timothy,</hi> and cauſed them to be carried (as were <hi>Joſephs</hi> unto <hi>Canaan,</hi> ſo theirs) unto <hi>Conſtantinople;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> Where
+<pb n="39" facs="tcp:52481:21"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> nobly Interred them, and then left them to reſt until the laſt Trumpet shall ſound, and ſummon all <hi>Fleſh</hi> to appear at <hi>Gods Tribunal,</hi> where shall be rendred unto every Man according unto the works of his own hands.</p>
+            <p>And now that we may be healed of all our <hi>Spiritual Diſeaſes,</hi> and ſo live on <hi>Earth,</hi> as that we may hereafter live in <hi>Glory;</hi> and there with S. <hi>Luke,</hi> and the whole <hi>Quire of Heaven,</hi> ſing forth to all Eternity, the <hi>Hallelujahs</hi> and <hi>Praiſes</hi> of our <hi>Creator;</hi> let us de<g ref="char:EOLhyphen"/>voutly pray in the words of our <hi>Church,</hi> and ſay,</p>
+            <p>
+               <hi>Almighty God! who calledſt S.</hi> Luke <hi>the Phyſitian, whoſe praiſe is in the Goſpel, to be a Phyſitian of the Soul; May it pleaſe Thee by the wholeſome Medicines
+<pb n="40" facs="tcp:52481:22"/>of his Doctri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of our Souls, through th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Christ our Lord.</hi> Amen.</p>
+            <closer>Gloria Deo.</closer>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:52481:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
